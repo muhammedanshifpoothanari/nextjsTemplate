@@ -1,7 +1,22 @@
+
+import Login from '@/components/login1'
+import React from 'react'
+
+
+
+
+
+
 const Page = () => {
+   
+
+
+
     return (
-        <h1> Login Page</h1>
+      <>
+      <Login/>
+      </>
     )
 }
 
-export default Page;
+export default Page

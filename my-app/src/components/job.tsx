@@ -10,7 +10,7 @@ const Prodf=()=>{
     <select className="w-full md:w-1/2 h-12 rounded-2xl p-2 border bg-[#D9D9D9]" required>
         <option value="">Select Type</option>
         <option value="IT">It</option>
-        <option value="Management">Management</option>
+        <option value="Management">Management</option>   
         
       
     </select>

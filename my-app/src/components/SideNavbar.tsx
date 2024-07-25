@@ -13,9 +13,13 @@ const SideNavbar = () => {
       [dropdown]: !prevState[dropdown]
     }));
   };
-
+      
   return (
+<<<<<<< HEAD
     <div className="h-screen bg-[#D9D9D9] text-black w-64 hidden md:hidden lg:flex lg:flex-col justify-between">
+=======
+    <div className="h-full bg-[#D9D9D9] text-black w-full flex flex-col justify-between">
+>>>>>>> 9851073131612ebe393ff7e3656fdbf3c5ee96f1
       <div className="p-4">
         <ul className="mt-4">
           <li className="py-2 hover:bg-gray-200 cursor-pointer">

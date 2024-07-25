@@ -15,7 +15,7 @@ const SideNavbar = () => {
   };
 
   return (
-    <div className="h-screen bg-[#D9D9D9] text-black w-64 flex flex-col justify-between">
+    <div className="h-full bg-[#D9D9D9] text-black w-full flex flex-col justify-between">
       <div className="p-4">
         <ul className="mt-4">
           <li className="py-2 hover:bg-gray-200 cursor-pointer">

@@ -14,7 +14,7 @@ export default function RootLayout({
             <div className="w-full h-screen bg-gray-400 grid grid-cols-4 grid-rows-[auto_1fr_1fr] gap-0">
                 <div className="col-span-4"><Topnav/></div>
                 <div className="row-span-2"><SideNavbar/></div>
-                <div className="bg-yellow-500 text-white font-bold  col-span-3 row-span-2">{children}</div>
+                <div className=" col-span-3 row-span-2">{children}</div>
             </div>
         </></body>
     </html>

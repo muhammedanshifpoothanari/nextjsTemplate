@@ -63,7 +63,10 @@ const SideNavbar = () => {
       </div>
     </div>
     </div>
+<<<<<<< HEAD
 
+=======
+>>>>>>> e13a69ded1f16bdf4fe772aa9e8133564f1e1d88
   );
 };
 

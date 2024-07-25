@@ -5,11 +5,11 @@ import React from 'react'
 
 const Page = () => {
   return (
-    <><Card /><div>
-      <>
+    <div>
+      
         <Prodf />
-      </>
-    </div></>
+      
+    </div>
   )
 }
 

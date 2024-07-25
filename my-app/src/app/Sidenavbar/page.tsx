@@ -1,9 +1,9 @@
-import Signup2 from '@/components/Signup2'
+import SideNavbar from '@/components/SideNavbar'
 import React from 'react'
 
 const page = () => {
   return (
-    <Signup2/>
+   <SideNavbar/>
   )
 }
 

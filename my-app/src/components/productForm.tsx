@@ -1,4 +1,4 @@
-const Jobform = () => {
+const Productform = () => {
     return (
         <div className="flex flex-col gap-10 p-6 max-h-[600px] overflow-y-auto no-scrollbar">
             <div className="text-4xl font-semibold">
@@ -25,4 +25,4 @@ const Jobform = () => {
     )
 }
 
-export default Jobform;
+export default Productform;

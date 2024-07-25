@@ -1,4 +1,4 @@
-import Jobform from '@/components/jobf'
+import Jobform from '@/components/jobForm'
 import React from 'react'
 
 const Page = () => {

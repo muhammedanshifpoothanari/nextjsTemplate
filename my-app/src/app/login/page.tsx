@@ -14,8 +14,8 @@ const Page = () => {
 
 
     return (
-      <>
-      <Login2/>
+      <>  
+      <Login/>
 
       </>
     )

@@ -2,7 +2,7 @@ const Jobform = () => {
     return (
         <div className="flex flex-col gap-10 p-6 max-h-[600px] overflow-y-auto no-scrollbar">
             <div className="text-4xl font-semibold">
-                Add Products
+                Add Product
             </div>
             <form className="flex flex-col gap-10">
                 <div className="flex flex-col gap-3">

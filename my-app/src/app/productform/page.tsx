@@ -1,11 +1,11 @@
-import Jobform from '@/components/jobf'
+import Prodf from '@/components/job'
 import React from 'react'
 
 const Page = () => {
   return (
     <div>
       <>
-      <Jobform/>
+      <Prodf/>
       </>
     </div>
   )

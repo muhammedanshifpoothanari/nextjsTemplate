@@ -1,13 +1,11 @@
-import Card from '@/components/Card'
-
-import Prodf from '@/components/job'
+import Jobform from '@/components/jobf'
 import React from 'react'
 
 const Page = () => {
   return (
     <div>
       
-        <Prodf />
+        <Jobform />
       
     </div>
   )

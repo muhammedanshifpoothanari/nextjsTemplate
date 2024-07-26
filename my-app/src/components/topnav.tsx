@@ -1,6 +1,6 @@
 const Topnav=()=>{
     return(
-        <div className="bg-[#D9D9D9]	w-full h-20 flex flex-row items-center justify-between">
+        <div className="bg-[#eff1f4]	w-full h-20 flex flex-row items-center justify-between">
             <div className="flex ">
                 <img src="./l7.png"></img>
             </div>
